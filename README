@@ -1,9 +1,7 @@
-This is a simple searcher for Etsy.com.  Upon running, it opens a new browser window/tab with a random, active item from
-Etsy's site.
+This is a simple searcher for Etsy.com.  Upon running, it opens a new browser window/tab with a random, active item from Etsy's site.
 
 It is written in Python version 2.7.3.  Tried to use Java initially, but that plan was quickly aborted.
 
-Still a few frustrating bugs to work out.  Planned improvements include search parameters, weeding out bugs,
-and more efficiently determing whether an item listing is still active or not.
+Still a few frustrating bugs to work out.  Planned improvements include search parameters, weeding out bugs, and more efficiently determing whether an item listing is still active or not.
 
 Credit for Version 1 goes out to Mike F. as well.
